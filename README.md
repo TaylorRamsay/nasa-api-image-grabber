@@ -7,3 +7,6 @@ This python program queries NASA's [EPIC](https://epic.gsfc.nasa.gov/) API (Eart
 
 ## How does it work?
 This python script makes use of [NASA's API](https://api.nasa.gov/) which proides free access to data such as [APOD](https://apod.nasa.gov/apod/) (Astronomy Picture of the Day) and [NASA's Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/index.html)!
+
+## Why?
+This small project was to familiarize myself with the usage of an API, manipulating the requested data, and using that data for a specific goal. In this case the goal was to collect images of the Earth and simulate its rotation in .gif format.
